@@ -67,7 +67,7 @@
 #define N_TANE 4
 #define SYMB_VITE "♥ "
 #define TAB 32
-#define CROC_DELAY 700000
+#define CROC_DELAY 500000
 #define UPPER_CROC_SPEED 35000
 #define LOWER_CROC_SPEED 80000
 #define BULL_SPEED_DELAY 150000
